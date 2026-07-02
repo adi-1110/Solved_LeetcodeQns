@@ -14,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -25,4 +26,13 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
