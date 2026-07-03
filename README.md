@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0128-longest-consecutive-sequence) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0128-longest-consecutive-sequence) |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
