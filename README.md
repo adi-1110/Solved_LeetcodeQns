@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0049-group-anagrams) |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
