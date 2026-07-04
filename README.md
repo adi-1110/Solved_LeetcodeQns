@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@
 | [0041-first-missing-positive](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0387-first-unique-character-in-a-string) |
@@ -25,6 +27,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0242-valid-anagram) |
 ## String
@@ -40,6 +43,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0387-first-unique-character-in-a-string) |
 ## Union-Find
 |  |
@@ -49,4 +53,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0036-valid-sudoku) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
