@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0387-first-unique-character-in-a-string) |
@@ -70,5 +71,6 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
