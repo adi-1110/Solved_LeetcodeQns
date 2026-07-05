@@ -5,8 +5,7 @@
 #         self.next = next
 class Solution(object):
     def middleNode(self, head):
-        if head is None:
-            return None
+        
         slow=head
         fast=head
         while fast and fast.next :
