@@ -73,10 +73,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
