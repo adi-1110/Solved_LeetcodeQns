@@ -75,6 +75,7 @@
 | [0061-rotate-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
@@ -85,6 +86,7 @@
 | [0061-rotate-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -92,8 +94,10 @@
 | [0021-merge-two-sorted-lists](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
