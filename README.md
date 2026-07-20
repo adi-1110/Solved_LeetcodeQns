@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0217-contains-duplicate) |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adi-1110/Solved_LeetcodeQns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
